@@ -12,6 +12,6 @@ function(nc_link_clang _target)
     )
 endfunction()
 
-add_subdirectory(libs)
+# add_subdirectory(libs)
 
 add_subdirectory(tools)
